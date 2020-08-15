@@ -4,4 +4,4 @@ Go to [webassembly studio](https://webassembly.studio/)
 - Copy the code  from *main.c* file
 - Copy the contents from *main.js*
 - Click on **build and run**.
-  A main.wasm file will be generated in the out folder and the response would be generated in a frame.
+- A main.wasm file will be generated in the out folder and the response would be generated in a frame.
